@@ -64,9 +64,3 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests** t
 ## License
 
 This project is licensed under the **MIT License**.
-
----
-
-🚀 **Created by [YawningFace](https://yawningface.org)**  
-💻 **GitHub:** [YawningFace on GitHub](https://github.com/Yawningface)  
-🌐 **Live Demo:** [Notion Widgets](https://notion.yawningface.org)
