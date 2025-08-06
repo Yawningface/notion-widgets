@@ -3,8 +3,9 @@
 **Simple, Minimal, Notion-Ready Components**
 
 🌐 **Live Demo:** [Notion Widgets by YawningFace](https://notion.yawningface.org)  
-🔗 **Website:** [YawningFace](https://yawningface.org)  
-💻 **GitHub:** [YawningFace on GitHub](https://github.com/Yawningface)  
+💻 **Notion Widgets GitHub repo:** [notion-widgets on GitHub](https://github.com/Yawningface/notion-widgets)  
+🔗 **Yawningface Website:** [YawningFace](https://yawningface.org)  
+💻 **Yawningface GitHub:** [YawningFace on GitHub](https://github.com/Yawningface)  
 
 Notion Widgets by YawningFace provides a collection of lightweight and aesthetically pleasing widgets that integrate seamlessly with Notion. Enhance your productivity, track your time, and stay motivated with these simple tools.
 
