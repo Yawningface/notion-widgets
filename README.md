@@ -12,7 +12,7 @@ Notion Widgets by YawningFace provides a collection of lightweight and aesthetic
 ## Widgets Included
 
 ### 🎯 Pomodoro  
-Stay focused with the **Pomodoro technique**—work in timed intervals with short breaks to maximize productivity.
+Stay focused with the **Pomodoro technique**. Work in timed intervals with short breaks to maximize productivity.
 
 ### 📅 Day Counter  
 Find out **what day of the year** it is today with a simple, visual counter.
